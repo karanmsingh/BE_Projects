@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Patient Referral</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_patient_login">Patient Login</string>
+    <string name="title_activity_doctor">Doctor Activity</string>
+    <string name="title_activity_doctor_module">Doctor Module</string>
+    <string-array name="array_files">
+        <item>Karan</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>asf</item>
+        <item>fabr</item>
+        <item>werherw</item>
+        <item>Prwre</item>
+        <item>rtnr</item>
+        <item>twnhrt</item>
+        <item>sfenbas</item>
+        <item>Pewner</item>
+        <item>erwnb</item>
+        <item>ghtdsa</item>
+        <item>btwsa</item>
+    </string-array>
+
+    <string name="title_activity_patient_module">Patient Module</string>
+    <string name="title_activity_add_file">Add a File</string>
+    <string name="title_activity_patient_module_2">Existing Files</string>
+    <string name="title_activity_file__content">File Content</string>
+    <string name="title_activity_send__files">Send Files</string>
+    <string name="title_activity_add__doctor">Add a Doctor</string>
+    <string name="title_activity_add__doctor2">Select</string>
+    <string name="title_activity_doctor_info">Doctor Info</string>
+    <string name="title_activity_doctor_module__patient_files">DoctorModule_PatientFiles</string>
+    <string name="title_activity_doctor_module__file_contents">DoctorModule_FileContents</string>
+    <string name="title_activity_doctor_module__comment">Add A Comment</string>
+    <string name="title_activity_doctor_module__patient_file_contents">
+        DoctorModule_PatientFileContents
+    </string>
+    <string name="title_activity_patient_exist_files">Patient Existing Files</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_patient_existing_files">Patient Existing Files</string>
+    <string name="title_activity_patient__existing_files">Patient_ExistingFiles</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_patient_sfiles">My Files</string>
+</resources>

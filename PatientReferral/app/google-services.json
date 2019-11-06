@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "161028894694",
+    "firebase_url": "https://patient-referral1.firebaseio.com",
+    "project_id": "patient-referral1",
+    "storage_bucket": "patient-referral1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161028894694:android:4dd18bbe0dee1cfa",
+        "android_client_info": {
+          "package_name": "com.patientreferral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161028894694-jtdliqfabjg1uirkc02a4scqt4k6ms48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57gdhC7QvsHcG4OSug9aLtemx09sAew8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
